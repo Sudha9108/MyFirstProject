@@ -63,7 +63,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.mypackage.MyClass</mainClass>
+            <mainClass>narayana.com.MyClass</mainClass>
           </manifest>
         </archive>
 	</configuration>
