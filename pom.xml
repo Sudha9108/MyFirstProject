@@ -59,13 +59,6 @@
         <configuration>
 	  <warSourceDirectory>WebContent</warSourceDirectory>
 	  <failOnMissingWebXml>false</failOnMissingWebXml>
-	 <archive>
-          <manifest>
-            <addClasspath>true</addClasspath>
-            <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>narayana.com.MyClass</mainClass>
-          </manifest>
-        </archive>
 	</configuration>
 	</plugin>
         <plugin>
